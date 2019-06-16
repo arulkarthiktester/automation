@@ -8,4 +8,10 @@ public class one {
 	  {
 	System.out.println("one done");	  
 	  }
+
+@Test
+public void Auto()
+{
+System.out.println("one done");	  
+}
 }
